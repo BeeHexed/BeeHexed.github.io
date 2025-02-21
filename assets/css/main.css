@@ -8164,6 +8164,11 @@ input, select, textarea {
 
 		}
 
+	.vid {
+		max-width: 10 px;
+		max-height: 10 px;
+	}
+
 	.items.style1 > * {
 		border-color: rgba(0, 0, 0, 0.2);
 	}
