@@ -290,6 +290,15 @@ input, select, textarea {
 	.align-right {
 		text-align: right;
 	}
+	
+
+	.new-section {
+		text-align: center;
+		padding: 20px 10px 15px 10px;
+		font-weight: 400;
+		line-height: 1.5;
+		text-decoration: none;
+	}
 
 	@media screen and (max-width: 736px) {
 
@@ -2639,10 +2648,6 @@ input, select, textarea {
 			border-radius: 4px;
 		}
 
-		.image.left, .image.right {
-			width: 40%;
-			max-width: 10rem;
-		}
 
 			.image.left img, .image.right img {
 				width: 100%;
